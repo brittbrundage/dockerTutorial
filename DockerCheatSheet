@@ -1,0 +1,16 @@
+Since there was nothing to commit, I decided to commit the recap cheat sheet. 
+## List of Docker CLI commands
+docker
+docker container --help
+## Display Docker version and info
+docker --version
+docker version
+docker info
+##Execute Docker Image
+docker run hello-world
+## List Docker Image
+docker image ls
+## List Docker Containers for all, running, and quiet mode
+docker container ls
+docker container ls -all
+docker container ls -aq
